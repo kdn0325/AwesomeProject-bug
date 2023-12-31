@@ -137,6 +137,11 @@ Verification checksum was incorrect, expected 6478edfe2f3305127cffe8caf73ea0176c
 
 https://github.com/kdn0325/AwesomeProject-bug
 
+
+### Solved
+
+https://github.com/facebook/react-native/issues/42110#issuecomment-1872913081
+
 ### Screenshots and Videos
 
 <img width="773" alt="스크린샷 2023-12-31 오후 6 04 02" src="https://github.com/facebook/react-native/assets/91298955/a4d3eb34-d090-4bb2-896d-9b49e2f2b981">
